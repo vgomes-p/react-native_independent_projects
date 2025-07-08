@@ -1,1 +1,2 @@
-# react-native_independent_projects
+# Sorry, but no independent react-native has been pushed yet...
+### But you may explore other projects around my profile or see some of my mobile projects on https://github.com/vgomes-p/piscine-mobile-42
